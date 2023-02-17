@@ -1,0 +1,11 @@
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\obj\Debug\ConnectWithDataBase2.0.csproj.AssemblyReference.cache
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\obj\Debug\ConnectWithDataBase2.0.csproj.SuggestedBindingRedirects.cache
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\obj\Debug\ConnectWithDataBase2._0.Form1.resources
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\obj\Debug\ConnectWithDataBase2._0.Properties.Resources.resources
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\obj\Debug\ConnectWithDataBase2.0.csproj.GenerateResource.cache
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\obj\Debug\ConnectWithDataBase2.0.csproj.CoreCompileInputs.cache
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\bin\Debug\ConnectWithDataBase2.0.exe.config
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\bin\Debug\ConnectWithDataBase2.0.exe
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\bin\Debug\ConnectWithDataBase2.0.pdb
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\obj\Debug\ConnectWithDataBase2.0.exe
+I:\C# 3 course\ConnectWithDataBase2.0\ConnectWithDataBase2.0\obj\Debug\ConnectWithDataBase2.0.pdb
